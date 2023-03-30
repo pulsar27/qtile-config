@@ -7,7 +7,7 @@ or may not work on your machine. Your Mileage May Vary.
 
 ## Dependencies
 PowerLine (for the bar), and qtile-extras. I set uxterm as the terminal, you
-may want to change that.
+may want to change that. Other dependencies are in the autostart.sh file, such as xss-lock and cbatticon.
 
 ## Keybindings
 It's mostly the stock keybindings, but I added a few.
